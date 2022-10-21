@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "quiz_divi",
+  "description": "",
+  "version": "1.0.0",
+  "main": "divi.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon divi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bre88D/quiz_divi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bre88D/quiz_divi/issues"
+  },
+  "homepage": "https://github.com/Bre88D/quiz_divi#readme"
+}
